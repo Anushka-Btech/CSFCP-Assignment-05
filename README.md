@@ -1,5 +1,5 @@
 # CSFCP-Assignment-05
-# CSFCP Assignment 05  
+
 ### Career Planning, Emerging Technologies & Industry Readiness  
 
 This repository contains all the files related to **B.Tech Semester 1 – CSFCP (Computer Science Fundamentals & Career Pathways) Assignment 05**.
